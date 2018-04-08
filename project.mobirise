@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ray-Zam",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -25,7 +25,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "favicon": "@PROJECT_PATH@/assets/images/lgo-128x128.png",
+    "favicon": "",
     "noImageResize": "true",
     "google-analytics": "",
     "cookiesAlert": "WE USE COOKIES TO DETERMINE YOUR LOCATION, WHAT YOURE DOING, WHAT YOU LOOK LIKE, SMELL AND TASTE. Read our <a href='privacy.html'>cookie policy</a>.",
@@ -36,14 +36,15 @@
     "sitemapSwitcher": "on",
     "versionFirst": "4.7.0",
     "uniqCompNum": 35,
-    "versionPublish": "4.7.0"
+    "versionPublish": "4.7.0",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "Ray-Zam Media & Computer Services",
-        "meta_descr": "Hi! We're Raymond and Zam, pinoy teens working to earn for our education. We specialize in media and computer services. Hoping to have you as our customer",
+        "meta_descr": "We're Raymond and Zam, pinoy teens working to earn for our education. We specialize in media and computer services",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -171,7 +172,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Photoshoot ○ Photoediting<br>Videoshoot ○ Videoediting",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CHECK SERVICES</a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">CHECK SERVICES</a>",
                 "overlayOpacity": "0.4"
               },
               {
@@ -282,7 +283,7 @@
     "page1.html": {
       "settings": {
         "title": "Computer-Services",
-        "meta_descr": "Hi! We're Raymond and Zam, pinoy teens working to earn for our education. We specialize in media and computer services. Hoping to have you as our customer",
+        "meta_descr": "We're Raymond and Zam, pinoy teens working to earn for our education. We specialize in media and computer services",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -643,7 +644,7 @@
     },
     "page2.html": {
       "settings": {
-        "meta_descr": "Hi! We're Raymond and Zam, pinoy teens working to earn for our education. We specialize in media and computer services. Hoping to have you as our customer",
+        "meta_descr": "We're Raymond and Zam, pinoy teens working to earn for our education. We specialize in media and computer services",
         "title": "About",
         "order": 1
       },
@@ -870,7 +871,7 @@
     },
     "page3.html": {
       "settings": {
-        "meta_descr": "Hi! We're Raymond and Zam, pinoy teens working to earn for our education. We specialize in media and computer services. Hoping to have you as our customer",
+        "meta_descr": "We're Raymond and Zam, pinoy teens working to earn for our education. We specialize in media and computer services",
         "title": "Media-Services",
         "order": 2
       },
